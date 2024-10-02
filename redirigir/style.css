@@ -1,0 +1,18 @@
+.spa {
+    background-image: url(https://symphony.cdn.tambourine.com/dolphin-bay-resort/media/dolphinbay-header-spa-5f6bbb867031f.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+.logo {
+    display: flex;
+    justify-content: right;
+}
+.imageninicio {
+    display: flex;
+    justify-content: center;
+}
+.videospa2 {
+    display: flex;
+    justify-content: center;
+}
+
