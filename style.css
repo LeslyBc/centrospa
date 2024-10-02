@@ -1,0 +1,38 @@
+.spa {
+    background-image: url(https://symphony.cdn.tambourine.com/dolphin-bay-resort/media/dolphinbay-header-spa-5f6bbb867031f.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+.logo {
+    display: flex;
+    justify-content: right;
+}
+.portada {
+    display: flex;
+    justify-content: center;
+}
+.masaje {
+    display: flex;
+    justify-content: center;
+}
+.tratamientos {
+    display: flex;
+    justify-content: center;
+}
+.bienestar {
+    display: flex;
+    justify-content: center;
+}
+.promociones {
+    display: flex;
+    justify-content: center;
+}
+.info {
+    background-image: url(https://www.sephorawellness.co.uk/wp-content/uploads/2020/09/Spa-Wellness-Header.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+.video {
+    display: flex;
+    justify-content: center;
+}
